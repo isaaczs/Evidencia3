@@ -19,6 +19,7 @@
     <string name="resultadoCURP">CURP Generada</string>
     <string name="resultadoConsulta">Resultados</string>
     <string name="botonSiguiente">Siguiente</string>
+    <string name="botonFoto">Agregar Foto</string>
     <string name="botonCerrar">Cerrar</string>
     <string name="menu3puntos">Menu</string>
     <string-array name="lista_estados">

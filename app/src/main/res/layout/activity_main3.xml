@@ -168,5 +168,10 @@
         android:layout_centerHorizontal="true"
         android:text="@string/generarCurp" />
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fotoUsuario"/>
+
 </RelativeLayout>
 

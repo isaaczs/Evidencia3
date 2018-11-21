@@ -22,5 +22,7 @@
             android:theme="@style/AppTheme" />
         <activity android:name=".Main3Activity" />
     </application>
+    <uses-feature android:name="android.hardware.camera"></uses-feature>
+    <uses-feature android:name="android.hardware.camera" android:required="false"></uses-feature>
 
 </manifest>
