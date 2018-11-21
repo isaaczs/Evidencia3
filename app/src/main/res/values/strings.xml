@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Consulta tu CURP</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="consulta_curp">Calcula tu CURP</string>
+    <string name="nombre">Nombre: </string>
+    <string name="pApellido">Primer apellido: </string>
+    <string name="sApellido">Segundo apellido: </string>
+    <string name="ingresa_apellidos">Ingresa tus apellidos: </string>
+    <string name="genero">Genero: </string>
+    <string name="lugar_nacimiento">Lugar de nacimiento</string>
+    <string name="fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="estado">Estado</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="ingresa">Ingresa los datos que se solicitan:</string>
+    <string name="bFecha">Fecha</string>
+    <string name="generoMasculino">Masculino</string>
+    <string name="generoFemenino">Femenino</string>
+    <string name="generarCurp">Generar CURP</string>
+    <string name="resultadoCURP">CURP Generada</string>
+    <string name="resultadoConsulta">Resultados</string>
+    <string name="botonSiguiente">Siguiente</string>
+    <string name="botonCerrar">Cerrar</string>
+    <string name="menu3puntos">Menu</string>
+    <string-array name="lista_estados">
+        <item>Aguascalientes</item>
+        <item>Baja California</item>
+        <item>Baja California Sur</item>
+        <item>Campeche</item>
+        <item>Coahuila</item>
+        <item>Colima</item>
+        <item>Chiapas</item>
+        <item>Chihuahua</item>
+        <item>Distrito Federal</item>
+        <item>Durango</item>
+        <item>Guanajuato</item>
+        <item>Guerrero</item>
+        <item>Hidalgo</item>
+        <item>Jalisco</item>
+        <item>México</item>
+        <item>Michoacán</item>
+        <item>Morelos</item>
+        <item>Nayarit</item>
+        <item>Nuevo León</item>
+        <item>Oaxaca</item>
+        <item>Puebla</item>
+        <item>Querétaro</item>
+        <item>Quintana Roo</item>
+        <item>San Luis Potosí</item>
+        <item>Sinaloa</item>
+        <item>Sonora</item>
+        <item>Tabasco</item>
+        <item>Tamauilipas</item>
+        <item>Tlaxcala</item>
+        <item>Veracruz</item>
+        <item>Yucatán</item>
+        <item>Zacatecas</item>
+    </string-array>
+    <string name="botonSalir">Salir</string>
+</resources>
